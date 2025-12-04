@@ -1,0 +1,18 @@
+===== PLAYLIST ANALYSIS SUMMARY =====
+
+Total Tracks: 12858074
+Unique Artists: 289815
+Diversity Score: 0.0225
+
+Top 10 Artists:
+
+- Daft Punk: 36086
+- Coldplay: 35485
+- Radiohead: 31429
+- The Rolling Stones: 30832
+- Kanye West: 29111
+- JAY Z: 28928
+- Eminem: 28894
+- Queen: 28079
+- David Bowie: 27802
+- Michael Jackson: 26336
