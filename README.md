@@ -6,6 +6,8 @@ This project analyzes a massive Spotify playlist dataset containing over **12.8 
 
 ## 📌 Project Overview  
 
+Dataset - https://drive.google.com/file/d/11lzmKlXd6nVXDbunVkYv8yWehrQWPURb/view?usp=drive_link
+
 This project explores and analyzes a large-scale Spotify playlist dataset to uncover patterns such as:
 
 - Most frequently appearing artists  
